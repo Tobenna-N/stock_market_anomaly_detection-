@@ -13,7 +13,6 @@ This project uses machine learning to detect abnormal trading behavior in stock 
 - Detected major market events such as the 2020 COVID-19 crash
 - High-volatility stocks (TSLA, AMZN) showed more anomalies
 - Stable stocks (JPM, GS) showed fewer anomalies
-- Example Outputs
 
 ##Tools
 
